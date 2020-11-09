@@ -9,7 +9,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/markjulian404/whatsapp-bot
+> git clone https://github.com/markjulian404/wabot
 ```
 
 ## Install the dependencies:
