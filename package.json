@@ -1,0 +1,43 @@
+{
+  "name": "whatsapp-bot",
+  "version": "2.1.0",
+  "description": "Whatsapp bot adalah tools untuk menghandle kegiatan percakapan anda di whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.0.13",
+    "@open-wa/wa-decrypt": "^2.0.1",
+    "axios": "^0.19.2",
+    "emoji-regex": "^9.0.0",
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.0.1",
+    "got": "^11.7.0",
+    "moment-timezone": "^0.5.31",
+    "needle": "^2.5.2",
+    "node-fetch": "^2.6.1",
+    "node-gtts": "^2.0.2",
+    "remove.bg": "^1.3.0",
+    "request": "^2.88.2",
+    "video-url-link": "^0.1.4"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markjulian404/wabot.git"
+  },
+  "keywords": [
+    "Whatsapp-Bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/markjulian404/wabot/issues"
+  },
+  "homepage": "https://github.com/markjulian404/wabot#readme"
+}
