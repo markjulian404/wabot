@@ -39,9 +39,12 @@ you've just cloned!!
 | Downloader |                     Feature                |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   YouTube mp3 Downloader                    |
-|       ❌        |   YouTube mp4 Downloader       |
-|       ❌        |   Instagram Video Downloader                  |
-|       ❌        |   Facebook Video Downloader                  |
+|       ✅        |   YouTube mp4 Downloader       |
+|       ✅        |   Instagram Video Downloader                  |
+|       ✅        |   Facebook Video Downloader                  |
+|       ✅        |   Twitter Video Downloader                  |
+|       ✅        |   Titok Video Downloader                  |
+|       ✅        |   MP3 Downloader                     |
 
 
 | Other  |                     Feature                     |
